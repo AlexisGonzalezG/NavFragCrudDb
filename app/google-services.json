@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "471684707367",
+    "project_id": "firestoredemo-e919a",
+    "storage_bucket": "firestoredemo-e919a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471684707367:android:b6b338f505d5ebd11c0a02",
+        "android_client_info": {
+          "package_name": "com.example.navfragcruddb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471684707367-bn5ev5gioq7kkeq442l0pdq14fvt4unb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5nSKcigBu66fYf71scfhsJDC0X3pk4yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471684707367-bn5ev5gioq7kkeq442l0pdq14fvt4unb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471684707367:android:f4f86d103ebcd61c1c0a02",
+        "android_client_info": {
+          "package_name": "com.example.navigationfragapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471684707367-bn5ev5gioq7kkeq442l0pdq14fvt4unb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5nSKcigBu66fYf71scfhsJDC0X3pk4yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471684707367-bn5ev5gioq7kkeq442l0pdq14fvt4unb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
